@@ -1,0 +1,1 @@
+convert 2.jpg -resize 150x150 2.jpg
